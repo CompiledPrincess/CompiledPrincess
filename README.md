@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Qing! Junior backend developer! 
+#### I love building APIs, interacting with database, everything and anything on the server side! 
+#### I love working with strongly typed languages, currently learning Rust and Haskell --- Planning to travel in time with one of those! 
+
